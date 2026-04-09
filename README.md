@@ -140,6 +140,5 @@ Author
 Afra Fathima
 Data Analysis Enthusiast
 
-⭐ If you like this project
-
+If you like this project
 Give it a ⭐ on GitHub and share it!
